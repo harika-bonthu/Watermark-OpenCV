@@ -1,1 +1,1 @@
-# Watermark-OpenCV
+# Watermark multiple images using OpenCV
